@@ -9,53 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 
-<a name="1.3.1"></a>
-## [1.3.1] - 2023-06-23
-### Changed
-- Store debug data in `data.debug` for spec compliance
+<a name="0.0.2"></a>
+## [0.0.2] - 2024-11-05
 
+<a name="0.0.1"></a>
+## 0.0.1 - 2024-11-04
 
-<a name="1.3.0"></a>
-## [1.3.0] - 2023-06-23
-### Added
-- Include `debug` key in exception if debug mode is enabled
-
-
-<a name="1.2.0"></a>
-## [1.2.0] - 2023-06-22
-### Changed
-- Refactored actions into container-bound classes
-
-
-<a name="1.1.0"></a>
-## [1.1.0] - 2023-06-20
-### Changed
-- Pass current request as `$request` to procedure caller
-
-
-<a name="1.0.4"></a>
-## [1.0.4] - 2023-06-19
-### Added
-- Helpers for `RequestObject` creation
-
-### Fixed
-- Batch response mapping for client
-- Procedure version header name
-
-
-<a name="1.0.1"></a>
-## [1.0.1] - 2023-06-19
-### Added
-- Configurable route names
-
-
-<a name="1.0.0"></a>
-## 1.0.0 - 2023-06-19
-
-[Unreleased]: https://github.com/basecodeoy/package_slug/compare/1.3.1...HEAD
-[1.3.1]: https://github.com/basecodeoy/package_slug/compare/1.3.0...1.3.1
-[1.3.0]: https://github.com/basecodeoy/package_slug/compare/1.2.0...1.3.0
-[1.2.0]: https://github.com/basecodeoy/package_slug/compare/1.1.0...1.2.0
-[1.1.0]: https://github.com/basecodeoy/package_slug/compare/1.0.4...1.1.0
-[1.0.4]: https://github.com/basecodeoy/package_slug/compare/1.0.1...1.0.4
-[1.0.1]: https://github.com/basecodeoy/package_slug/compare/1.0.0...1.0.1
+[Unreleased]: https://github.com/basecodeoy/laravel-json-rpc/compare/0.0.2...HEAD
+[0.0.2]: https://github.com/basecodeoy/laravel-json-rpc/compare/0.0.1...0.0.2
